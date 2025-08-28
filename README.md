@@ -1,2 +1,43 @@
-# Abyss Ventures
-Abyss Ventures: A Plataforma Definitiva para Trading de Criptomoedas A Abyss Ventures é a plataforma de trading de criptomoedas mais avançada do Brasil, projetada para quem busca operar de forma mais inteligente e lucrativa. O site se destaca pelo seu design profissional de tema escuro, que transmite seriedade e modernidade.  Na página inicial, o visitante é recebido por uma seção principal (hero) que combina um título impactante (Trade Smarter, Earn Better) com uma descrição concisa sobre a plataforma. A página também exibe dados financeiros de destaque, como o volume total negociado.  O elemento central do site é o mockup interativo de um celular, que oferece uma prévia do aplicativo. Nele, você pode ver:  O saldo total da conta, com valores e porcentagens que mudam para simular uma análise de mercado em tempo real.  Um card de alerta sobre o preço do Bitcoin, demonstrando a funcionalidade da plataforma.  Uma lista de criptomoedas em destaque, como Bitcoin, Ethereum e Cardano, mostrando seus preços e variações.  O site é totalmente responsivo, garantindo que a experiência visual seja impecável em qualquer dispositivo, seja em um desktop, tablet ou celular. A navegação é complementada por animações e efeitos suaves que tornam a experiência do usuário mais dinâmica e envolvente, como o efeito de flutuação do celular.
+# Abyss Ventures: Trading Inteligente de Criptomoedas
+
+## 📌 Visão Geral
+A **Abyss Ventures** é a plataforma de trading de criptomoedas mais avançada do Brasil, unindo 
+**tecnologia**, **segurança** e **design moderno** em tema escuro.
+
+> 🔹 **Resumo curto (100 caracteres):**  
+> Abyss Ventures: trading inteligente com design moderno, mockup interativo e site responsivo.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+- **HTML5** → Estrutura do conteúdo da página  
+- **CSS3** → Estilização e responsividade  
+- **JavaScript (ES6+)** → Dinamismo e interatividade  
+
+---
+
+## ✨ Funcionalidades
+- **Mockup interativo de celular**  
+  - Saldo atualizado em tempo real  
+  - Alerta de preço do Bitcoin  
+  - Lista de criptomoedas em destaque (BTC, ETH, ADA)  
+- **Design responsivo** em qualquer dispositivo  
+- **Animações suaves**: entrada de texto, ícones flutuantes e efeito de flutuação no celular  
+
+---
+
+## 🛠️ Como Iniciar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/abyss-ventures.git
+
+## 📂 Estrutura do Projeto
+````
+abyss-ventures/
+│── index.html            # Estrutura principal
+│── css/
+│   └── styles.css        # Estilos e responsividade
+│── javascript/
+│   └── index.js          # Animações e interatividade
+│── favicon.ico           # Ícone exibido na aba do navegador
+
