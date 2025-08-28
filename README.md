@@ -36,9 +36,4 @@ A **Abyss Ventures** é a plataforma de trading de criptomoedas mais avançada d
    ```bash
    git clone https://github.com/seu-usuario/abyss-ventures.git
 
-│   └── index.js          # Animações e interatividade
-│── favicon.ico           # Ícone exibido na aba do navegador
-<<<<<<< HEAD
-=======
-
 
